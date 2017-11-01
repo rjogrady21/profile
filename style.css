@@ -1,0 +1,110 @@
+h1, h2, h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 700px;
+  text-align: center;
+  color: #6F1A07;
+  padding: 0px 0px;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: 300px;
+  font-weight: 500px;
+  text-align: center;
+  color: #292b2c;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #6F1A07;
+  color: #292b2c;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+a {
+  color: #6F1A07;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #BDBDBD;
+  text-decoration: none
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-tall {
+  height: 40px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.img-circle {
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 1px #F6F6F7;
+  height: 200px;
+}
+
+.header-image {
+  width: 200px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.card {
+  margin: 20px;
+  padding: 50px;
+  border: 1px, solid, white;
+  border-radius: 4px;
+  width: 500px;
+  background-color: #F6F6F7;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+.card-text {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.img-center {
+  width: 100%;
+  text-align: center;
+}
+
+.container {
+  width: 700px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.btn-red {
+  background-color: #6F1A07;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-red:hover {
+  color: #BDBDBD;
+}
+
+#wagon-image {
+    height: 100px;
+    width: 100px;
+}
